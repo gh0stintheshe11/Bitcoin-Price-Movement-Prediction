@@ -1,0 +1,11 @@
+websocket-client
+requests
+pandas
+numpy
+matplotlib
+tensorflow[and-cuda]
+keras
+scikit-learn
+kagglehub
+ta
+
